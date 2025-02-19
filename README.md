@@ -15,3 +15,4 @@ Ubuntu-Seek is useful because it combines system management, security, and educa
 
 With Ubuntu-Seek, users can confidently use Ubuntu, knowing that they are protected and continuously learning.
 
+By: Bergamo|Hub
